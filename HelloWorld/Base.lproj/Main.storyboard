@@ -46,7 +46,7 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="HelloWorldLabel" destination="D1M-2A-4rv" id="3x3-Tt-y7D"/>
+                        <outlet property="helloWorldLabel" destination="D1M-2A-4rv" id="3x3-Tt-y7D"/>
                         <outlet property="toggleButton" destination="PNc-aH-tEH" id="Rww-sK-ntI"/>
                     </connections>
                 </viewController>
